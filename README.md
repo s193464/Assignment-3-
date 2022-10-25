@@ -50,23 +50,22 @@ The tool presents the transmission loss for the user.
 
 ##### Steps 
 To make this possible, following steps are needed: 
-1) Check that the IFC file (Duplex A 20110907) contains necessary data regarding the external walls. 
-2) Validate that wanted data is accessible in the external sources. 
+1. Check that the IFC file (Duplex A 20110907) contains necessary data regarding the external walls. 
+2. Validate that wanted data is accessible in the external sources. 
 
 Will use following to build the tool:
 
-3) Python 
-
-4) IFC openshell
+3. Python 
+4. IFC openshell
 
 
 Will use following equations:
 
-5) U-value: 
+5. U-value: 
 
 ![u-value](https://user-images.githubusercontent.com/112421127/197871610-8e1b2cac-8d11-4391-af1f-7c9930276962.jpg)
 
-6) Transmission loss:   
+6. Transmission loss:   
 
 ![transmission loss](https://user-images.githubusercontent.com/112421127/197871580-e687ade0-2d40-458c-a4e3-5b4a77e3e419.jpg)
 
