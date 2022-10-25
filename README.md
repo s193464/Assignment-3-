@@ -58,9 +58,12 @@ Will use following to build the tool:
 4) IFC openshell
 
 Will use following equations:
+
 5) U-value: 
+
 ![u-value](https://user-images.githubusercontent.com/112421127/197871610-8e1b2cac-8d11-4391-af1f-7c9930276962.jpg)
 
 6) Transmission loss:   
+
 ![transmission loss](https://user-images.githubusercontent.com/112421127/197871580-e687ade0-2d40-458c-a4e3-5b4a77e3e419.jpg)
 
