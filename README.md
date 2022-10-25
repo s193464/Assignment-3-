@@ -54,8 +54,11 @@ To make this possible, following steps are needed:
 2) Validate that wanted data is accessible in the external sources. 
 
 Will use following to build the tool:
+
 3) Python 
+
 4) IFC openshell
+
 
 Will use following equations:
 
