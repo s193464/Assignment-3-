@@ -14,7 +14,8 @@ With this analysis it is possible to validate if the U-value of the building com
 ### Workflow 
 ![diagram](https://user-images.githubusercontent.com/112421127/198092534-47443485-9ad6-467c-8a1a-c3996f963a3e.svg)
 
-4 Description of BPMN 
+#### Process of tool/workflow
+When starting the process, different criterias needs to be identified. For doing this, the IFC model is used for the information exchange. Based on this, data of the external wall can be generated. DS418 is used for the reference information, in order to gather data for the thermal conductivity. The U-value can now be calculated, based on this data. BR18 is then used as a reference information, to check if the U-value is acceptable. If not, the criteria of the external wall must be identified again. If yes, then the data of the area of the external wall can be gathered, and the transmission loss can be calculated. The results are then shown to the user of the tool. The process is then terminated.  
 
 
 ### Information exchange 
