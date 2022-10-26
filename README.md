@@ -33,12 +33,12 @@ To calculate the transmission loss, an indoor and outdoor temperature is also ne
 
 ### Value 
 #### Business value
-sparer medarbejderne tid - i forhold til selv at finde tykkelse, materialer og areal af væg. Bruge IFC frem for at kigge manuelt på tegninger 
-mindsker risiko for menneskelige fejl 
+The tool will save the employees time when finding the thickness and materials of the wall. When using IFC, the risk of mistakes will be decreased, compared to finding the data manually by looking at drawings etc. 
 
 #### Social value 
-ved at sikre at transmission loss overholder BR18, ved man at der ikke bruges unødvendigt meget energi på at varme  bygningen op. Derved er man med til at mindske udledningen af CO2, hvilket hjælper på den globale opvarmning.  
-derudover giver det en økonomisk fordel for brugerne af bygningen, da der bruges mindre energi og derved færre penge på opvarmning af bygningen. 
+By ensuring that transmission loss complies with BR18, it is known, that an unnecessary amount of energy is not used to heat up the building. This helps to reduce the emission of CO2, which helps global warming.
+in addition, it provides an economic advantage for the users of the building, as less energy is used and therefore less money on heating the building.
+
 
 ### Delivery 
 #### Tools and use case 
