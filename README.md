@@ -12,7 +12,8 @@ In order to analyze, it is necessary to gather information about the materials a
 With this analysis it is possible to validate if the U-value of the building complies with BR18.   
 
 ### Workflow 
-3 BPMN
+![diagram](https://user-images.githubusercontent.com/112421127/198092534-47443485-9ad6-467c-8a1a-c3996f963a3e.svg)
+
 4 Description of BPMN 
 
 
