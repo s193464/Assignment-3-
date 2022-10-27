@@ -19,7 +19,8 @@ When starting the process, different criterias needs to be identified. For doing
 
 
 ### Information exchange 
-5 Excel sheet 
+ 
+![BIM Information Exchange Group 6](https://user-images.githubusercontent.com/112421127/198220722-b772f513-2714-4fe3-82d0-1d1a8c6f563e.JPG)
 
 
 #### IFC data: 
